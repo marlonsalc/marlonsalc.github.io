@@ -125,7 +125,9 @@ p {
   color: var(--body-color);
   margin: 0px;
 }
-
+img{
+  width: 100%;
+}
 .bg_cover {
   background-position: center center;
   background-size: cover;
